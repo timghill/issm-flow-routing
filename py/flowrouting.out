@@ -1,0 +1,1580 @@
+1.9985493637466325
+0.8735648449288589
+100.783 s to compute flow routing
+Iteration 1
+88.504 s to compute flow routing
+accepted node 20103
+Iteration 2
+86.651 s to compute flow routing
+accepted node 4221
+Iteration 3
+85.945 s to compute flow routing
+accepted node 17235
+Iteration 4
+86.008 s to compute flow routing
+accepted node 21223
+Iteration 5
+84.977 s to compute flow routing
+accepted node 25428
+Iteration 6
+85.014 s to compute flow routing
+accepted node 1270
+Iteration 7
+85.076 s to compute flow routing
+accepted node 26424
+Iteration 8
+85.183 s to compute flow routing
+accepted node 15453
+Iteration 9
+84.440 s to compute flow routing
+accepted node 30521
+Iteration 10
+81.885 s to compute flow routing
+accepted node 14453
+Iteration 11
+82.433 s to compute flow routing
+accepted node 2016
+Iteration 12
+82.343 s to compute flow routing
+accepted node 24932
+Iteration 13
+82.294 s to compute flow routing
+accepted node 22564
+Iteration 14
+81.960 s to compute flow routing
+accepted node 13290
+Iteration 15
+73.231 s to compute flow routing
+accepted node 14766
+Iteration 16
+72.117 s to compute flow routing
+accepted node 568
+Iteration 17
+71.008 s to compute flow routing
+accepted node 24591
+Iteration 18
+70.938 s to compute flow routing
+accepted node 10118
+Iteration 19
+69.110 s to compute flow routing
+accepted node 29893
+Iteration 20
+61.767 s to compute flow routing
+accepted node 28622
+Iteration 21
+61.289 s to compute flow routing
+accepted node 20579
+Iteration 22
+61.184 s to compute flow routing
+accepted node 32215
+Iteration 23
+61.167 s to compute flow routing
+rejected node 31273
+Iteration 24
+61.037 s to compute flow routing
+accepted node 5076
+Iteration 25
+60.675 s to compute flow routing
+accepted node 7933
+Iteration 26
+60.584 s to compute flow routing
+accepted node 28698
+Iteration 27
+60.451 s to compute flow routing
+accepted node 69
+Iteration 28
+59.572 s to compute flow routing
+accepted node 10628
+Iteration 29
+59.040 s to compute flow routing
+accepted node 18352
+Iteration 30
+52.876 s to compute flow routing
+accepted node 31427
+Iteration 31
+52.787 s to compute flow routing
+accepted node 32293
+Iteration 32
+52.848 s to compute flow routing
+accepted node 6655
+Iteration 33
+51.642 s to compute flow routing
+accepted node 17681
+Iteration 34
+51.820 s to compute flow routing
+accepted node 611
+Iteration 35
+51.930 s to compute flow routing
+accepted node 4273
+Iteration 36
+51.751 s to compute flow routing
+accepted node 7847
+Iteration 37
+51.164 s to compute flow routing
+accepted node 19024
+Iteration 38
+51.004 s to compute flow routing
+accepted node 24426
+Iteration 39
+51.035 s to compute flow routing
+accepted node 5663
+Iteration 40
+48.030 s to compute flow routing
+accepted node 25191
+Iteration 41
+48.056 s to compute flow routing
+accepted node 10768
+Iteration 42
+48.278 s to compute flow routing
+accepted node 614
+Iteration 43
+47.782 s to compute flow routing
+rejected node 13219
+Iteration 44
+48.370 s to compute flow routing
+accepted node 1954
+Iteration 45
+48.112 s to compute flow routing
+accepted node 32305
+Iteration 46
+46.765 s to compute flow routing
+accepted node 9462
+Iteration 47
+46.519 s to compute flow routing
+accepted node 8014
+Iteration 48
+45.577 s to compute flow routing
+accepted node 8991
+Iteration 49
+45.561 s to compute flow routing
+accepted node 12022
+Iteration 50
+43.308 s to compute flow routing
+accepted node 20299
+Iteration 51
+42.010 s to compute flow routing
+accepted node 29449
+Iteration 52
+40.891 s to compute flow routing
+accepted node 24744
+Iteration 53
+40.294 s to compute flow routing
+rejected node 1419
+Iteration 54
+40.735 s to compute flow routing
+accepted node 23755
+Iteration 55
+40.341 s to compute flow routing
+accepted node 17164
+Iteration 56
+40.234 s to compute flow routing
+accepted node 14464
+Iteration 57
+40.149 s to compute flow routing
+rejected node 21511
+Iteration 58
+38.726 s to compute flow routing
+accepted node 23660
+Iteration 59
+38.636 s to compute flow routing
+accepted node 24789
+Iteration 60
+38.360 s to compute flow routing
+accepted node 31241
+Iteration 61
+38.346 s to compute flow routing
+accepted node 10197
+Iteration 62
+37.920 s to compute flow routing
+accepted node 14372
+Iteration 63
+37.711 s to compute flow routing
+accepted node 208
+Iteration 64
+37.552 s to compute flow routing
+accepted node 10594
+Iteration 65
+37.454 s to compute flow routing
+accepted node 26912
+Iteration 66
+37.568 s to compute flow routing
+accepted node 10966
+Iteration 67
+37.308 s to compute flow routing
+accepted node 8709
+Iteration 68
+36.974 s to compute flow routing
+accepted node 5382
+Iteration 69
+35.781 s to compute flow routing
+accepted node 4585
+Iteration 70
+34.678 s to compute flow routing
+accepted node 5711
+Iteration 71
+34.577 s to compute flow routing
+accepted node 6672
+Iteration 72
+34.597 s to compute flow routing
+accepted node 106
+Iteration 73
+34.209 s to compute flow routing
+accepted node 31931
+Iteration 74
+32.444 s to compute flow routing
+accepted node 29854
+Iteration 75
+32.128 s to compute flow routing
+rejected node 11462
+Iteration 76
+32.289 s to compute flow routing
+accepted node 15251
+Iteration 77
+32.314 s to compute flow routing
+accepted node 24895
+Iteration 78
+32.362 s to compute flow routing
+accepted node 4656
+Iteration 79
+32.298 s to compute flow routing
+accepted node 27911
+Iteration 80
+32.191 s to compute flow routing
+accepted node 186
+Iteration 81
+32.179 s to compute flow routing
+accepted node 26610
+Iteration 82
+31.675 s to compute flow routing
+accepted node 20155
+Iteration 83
+30.871 s to compute flow routing
+accepted node 24081
+Iteration 84
+30.881 s to compute flow routing
+accepted node 14282
+Iteration 85
+30.708 s to compute flow routing
+accepted node 10160
+Iteration 86
+30.723 s to compute flow routing
+accepted node 5428
+Iteration 87
+30.812 s to compute flow routing
+rejected node 3038
+Iteration 88
+30.684 s to compute flow routing
+accepted node 28794
+Iteration 89
+29.901 s to compute flow routing
+accepted node 16609
+Iteration 90
+29.935 s to compute flow routing
+accepted node 17041
+Iteration 91
+29.649 s to compute flow routing
+accepted node 26685
+Iteration 92
+29.133 s to compute flow routing
+rejected node 25404
+Iteration 93
+29.560 s to compute flow routing
+rejected node 14614
+Iteration 94
+29.441 s to compute flow routing
+accepted node 24636
+Iteration 95
+29.248 s to compute flow routing
+accepted node 5485
+Iteration 96
+29.148 s to compute flow routing
+accepted node 6778
+Iteration 97
+28.907 s to compute flow routing
+accepted node 7054
+Iteration 98
+28.945 s to compute flow routing
+accepted node 10125
+Iteration 99
+28.710 s to compute flow routing
+accepted node 28854
+Iteration 100
+28.132 s to compute flow routing
+accepted node 16747
+Iteration 101
+27.941 s to compute flow routing
+rejected node 23803
+Iteration 102
+28.128 s to compute flow routing
+rejected node 27621
+Iteration 103
+28.122 s to compute flow routing
+accepted node 25708
+Iteration 104
+28.066 s to compute flow routing
+accepted node 17163
+Iteration 105
+28.096 s to compute flow routing
+rejected node 26181
+Iteration 106
+28.031 s to compute flow routing
+rejected node 21760
+Iteration 107
+27.925 s to compute flow routing
+accepted node 29227
+Iteration 108
+27.915 s to compute flow routing
+accepted node 19329
+Iteration 109
+27.967 s to compute flow routing
+accepted node 19317
+Iteration 110
+27.947 s to compute flow routing
+rejected node 22343
+Iteration 111
+27.935 s to compute flow routing
+accepted node 134
+Iteration 112
+27.876 s to compute flow routing
+rejected node 9390
+Iteration 113
+27.876 s to compute flow routing
+accepted node 16562
+Iteration 114
+27.740 s to compute flow routing
+accepted node 31385
+Iteration 115
+27.608 s to compute flow routing
+accepted node 17847
+Iteration 116
+27.155 s to compute flow routing
+accepted node 6267
+Iteration 117
+27.012 s to compute flow routing
+rejected node 23022
+Iteration 118
+27.039 s to compute flow routing
+accepted node 219
+Iteration 119
+27.127 s to compute flow routing
+accepted node 6595
+Iteration 120
+27.106 s to compute flow routing
+accepted node 9944
+Iteration 121
+27.261 s to compute flow routing
+accepted node 16856
+Iteration 122
+27.115 s to compute flow routing
+rejected node 9848
+Iteration 123
+26.908 s to compute flow routing
+accepted node 31589
+Iteration 124
+26.834 s to compute flow routing
+accepted node 15461
+Iteration 125
+27.025 s to compute flow routing
+rejected node 95
+Iteration 126
+26.833 s to compute flow routing
+rejected node 130
+Iteration 127
+24.772 s to compute flow routing
+accepted node 22326
+Iteration 128
+24.597 s to compute flow routing
+accepted node 11472
+Iteration 129
+23.896 s to compute flow routing
+rejected node 20468
+Iteration 130
+24.616 s to compute flow routing
+accepted node 10775
+Iteration 131
+24.517 s to compute flow routing
+rejected node 27947
+Iteration 132
+24.613 s to compute flow routing
+accepted node 20688
+Iteration 133
+24.563 s to compute flow routing
+accepted node 7924
+Iteration 134
+24.489 s to compute flow routing
+accepted node 9083
+Iteration 135
+24.494 s to compute flow routing
+rejected node 8874
+Iteration 136
+24.334 s to compute flow routing
+rejected node 27008
+Iteration 137
+24.390 s to compute flow routing
+accepted node 20386
+Iteration 138
+24.165 s to compute flow routing
+accepted node 20697
+Iteration 139
+23.961 s to compute flow routing
+accepted node 14107
+Iteration 140
+24.071 s to compute flow routing
+accepted node 27407
+Iteration 141
+24.058 s to compute flow routing
+accepted node 17270
+Iteration 142
+24.119 s to compute flow routing
+rejected node 10556
+Iteration 143
+24.100 s to compute flow routing
+rejected node 26384
+Iteration 144
+23.954 s to compute flow routing
+accepted node 5513
+Iteration 145
+23.880 s to compute flow routing
+accepted node 31
+Iteration 146
+23.954 s to compute flow routing
+accepted node 14188
+Iteration 147
+23.914 s to compute flow routing
+accepted node 3933
+Iteration 148
+24.005 s to compute flow routing
+accepted node 12727
+Iteration 149
+23.955 s to compute flow routing
+accepted node 12634
+Iteration 150
+24.037 s to compute flow routing
+accepted node 12105
+Iteration 151
+23.914 s to compute flow routing
+rejected node 2815
+Iteration 152
+23.868 s to compute flow routing
+accepted node 14235
+Iteration 153
+23.924 s to compute flow routing
+accepted node 339
+Iteration 154
+23.914 s to compute flow routing
+accepted node 20783
+Iteration 155
+23.407 s to compute flow routing
+accepted node 6614
+Iteration 156
+23.434 s to compute flow routing
+accepted node 6327
+Iteration 157
+23.224 s to compute flow routing
+accepted node 11443
+Iteration 158
+22.733 s to compute flow routing
+accepted node 7438
+Iteration 159
+22.726 s to compute flow routing
+accepted node 16403
+Iteration 160
+22.732 s to compute flow routing
+accepted node 1815
+Iteration 161
+22.739 s to compute flow routing
+accepted node 25544
+Iteration 162
+22.390 s to compute flow routing
+accepted node 6859
+Iteration 163
+22.158 s to compute flow routing
+accepted node 31552
+Iteration 164
+21.495 s to compute flow routing
+rejected node 16573
+Iteration 165
+22.111 s to compute flow routing
+accepted node 19633
+Iteration 166
+21.655 s to compute flow routing
+accepted node 6767
+Iteration 167
+21.081 s to compute flow routing
+accepted node 30949
+Iteration 168
+20.918 s to compute flow routing
+accepted node 12308
+Iteration 169
+20.927 s to compute flow routing
+accepted node 18333
+Iteration 170
+20.924 s to compute flow routing
+rejected node 18752
+Iteration 171
+20.816 s to compute flow routing
+accepted node 8359
+Iteration 172
+20.704 s to compute flow routing
+accepted node 14301
+Iteration 173
+20.671 s to compute flow routing
+rejected node 9004
+Iteration 174
+20.744 s to compute flow routing
+accepted node 5455
+Iteration 175
+20.712 s to compute flow routing
+accepted node 15316
+Iteration 176
+20.598 s to compute flow routing
+rejected node 20769
+Iteration 177
+20.570 s to compute flow routing
+accepted node 18550
+Iteration 178
+20.433 s to compute flow routing
+accepted node 1762
+Iteration 179
+20.156 s to compute flow routing
+accepted node 12950
+Iteration 180
+19.830 s to compute flow routing
+rejected node 16463
+Iteration 181
+20.076 s to compute flow routing
+accepted node 22339
+Iteration 182
+19.989 s to compute flow routing
+accepted node 11012
+Iteration 183
+19.763 s to compute flow routing
+rejected node 21721
+Iteration 184
+19.983 s to compute flow routing
+accepted node 3321
+Iteration 185
+19.926 s to compute flow routing
+accepted node 5186
+Iteration 186
+19.909 s to compute flow routing
+accepted node 1584
+Iteration 187
+19.840 s to compute flow routing
+accepted node 21908
+Iteration 188
+19.944 s to compute flow routing
+rejected node 2382
+Iteration 189
+19.936 s to compute flow routing
+accepted node 26505
+Iteration 190
+19.938 s to compute flow routing
+accepted node 14391
+Iteration 191
+19.786 s to compute flow routing
+rejected node 7821
+Iteration 192
+19.512 s to compute flow routing
+accepted node 26752
+Iteration 193
+19.504 s to compute flow routing
+accepted node 28034
+Iteration 194
+19.639 s to compute flow routing
+accepted node 19355
+Iteration 195
+19.585 s to compute flow routing
+accepted node 28870
+Iteration 196
+19.386 s to compute flow routing
+rejected node 21910
+Iteration 197
+19.536 s to compute flow routing
+accepted node 24050
+Iteration 198
+19.500 s to compute flow routing
+rejected node 4535
+Iteration 199
+19.129 s to compute flow routing
+accepted node 10797
+Iteration 200
+19.106 s to compute flow routing
+rejected node 218
+Iteration 201
+19.107 s to compute flow routing
+accepted node 6203
+Iteration 202
+19.077 s to compute flow routing
+accepted node 28686
+Iteration 203
+19.058 s to compute flow routing
+rejected node 32286
+Iteration 204
+19.135 s to compute flow routing
+rejected node 1507
+Iteration 205
+19.048 s to compute flow routing
+accepted node 22299
+Iteration 206
+18.994 s to compute flow routing
+accepted node 11747
+Iteration 207
+18.938 s to compute flow routing
+accepted node 409
+Iteration 208
+18.999 s to compute flow routing
+accepted node 25770
+Iteration 209
+18.768 s to compute flow routing
+accepted node 31471
+Iteration 210
+18.844 s to compute flow routing
+rejected node 22514
+Iteration 211
+18.728 s to compute flow routing
+accepted node 20672
+Iteration 212
+18.889 s to compute flow routing
+accepted node 19955
+Iteration 213
+18.902 s to compute flow routing
+rejected node 31297
+Iteration 214
+18.809 s to compute flow routing
+rejected node 21333
+Iteration 215
+18.680 s to compute flow routing
+accepted node 12012
+Iteration 216
+18.623 s to compute flow routing
+rejected node 22559
+Iteration 217
+18.615 s to compute flow routing
+accepted node 25444
+Iteration 218
+18.476 s to compute flow routing
+accepted node 31501
+Iteration 219
+18.339 s to compute flow routing
+accepted node 2485
+Iteration 220
+18.472 s to compute flow routing
+accepted node 28729
+Iteration 221
+18.491 s to compute flow routing
+accepted node 3238
+Iteration 222
+18.426 s to compute flow routing
+rejected node 30746
+Iteration 223
+18.460 s to compute flow routing
+rejected node 29552
+Iteration 224
+18.318 s to compute flow routing
+rejected node 26428
+Iteration 225
+18.397 s to compute flow routing
+accepted node 21831
+Iteration 226
+18.435 s to compute flow routing
+accepted node 23909
+Iteration 227
+18.245 s to compute flow routing
+accepted node 11910
+Iteration 228
+18.237 s to compute flow routing
+accepted node 9062
+Iteration 229
+18.267 s to compute flow routing
+rejected node 32212
+Iteration 230
+18.137 s to compute flow routing
+accepted node 3583
+Iteration 231
+18.245 s to compute flow routing
+accepted node 11098
+Iteration 232
+18.170 s to compute flow routing
+rejected node 5928
+Iteration 233
+18.099 s to compute flow routing
+rejected node 18270
+Iteration 234
+18.146 s to compute flow routing
+accepted node 16712
+Iteration 235
+18.184 s to compute flow routing
+rejected node 17689
+Iteration 236
+18.268 s to compute flow routing
+rejected node 30029
+Iteration 237
+17.943 s to compute flow routing
+accepted node 28572
+Iteration 238
+17.898 s to compute flow routing
+accepted node 28197
+Iteration 239
+17.857 s to compute flow routing
+rejected node 11524
+Iteration 240
+17.847 s to compute flow routing
+rejected node 5598
+Iteration 241
+17.897 s to compute flow routing
+accepted node 1567
+Iteration 242
+17.937 s to compute flow routing
+accepted node 15281
+Iteration 243
+17.807 s to compute flow routing
+accepted node 29
+Iteration 244
+17.755 s to compute flow routing
+rejected node 12781
+Iteration 245
+17.748 s to compute flow routing
+accepted node 23658
+Iteration 246
+17.819 s to compute flow routing
+accepted node 1470
+Iteration 247
+17.723 s to compute flow routing
+accepted node 31265
+Iteration 248
+17.740 s to compute flow routing
+accepted node 31534
+Iteration 249
+17.719 s to compute flow routing
+rejected node 32178
+Iteration 250
+17.640 s to compute flow routing
+accepted node 25615
+Iteration 251
+17.637 s to compute flow routing
+rejected node 20360
+Iteration 252
+17.615 s to compute flow routing
+rejected node 5504
+Iteration 253
+17.786 s to compute flow routing
+rejected node 24460
+Iteration 254
+17.767 s to compute flow routing
+accepted node 3791
+Iteration 255
+17.741 s to compute flow routing
+accepted node 185
+Iteration 256
+17.685 s to compute flow routing
+rejected node 321
+Iteration 257
+17.779 s to compute flow routing
+rejected node 30937
+Iteration 258
+17.530 s to compute flow routing
+rejected node 10377
+Iteration 259
+17.594 s to compute flow routing
+accepted node 27089
+Iteration 260
+17.533 s to compute flow routing
+rejected node 6577
+Iteration 261
+17.657 s to compute flow routing
+accepted node 14349
+Iteration 262
+17.609 s to compute flow routing
+rejected node 12721
+Iteration 263
+17.571 s to compute flow routing
+rejected node 21102
+Iteration 264
+17.477 s to compute flow routing
+accepted node 6312
+Iteration 265
+17.497 s to compute flow routing
+accepted node 29101
+Iteration 266
+17.568 s to compute flow routing
+rejected node 107
+Iteration 267
+17.487 s to compute flow routing
+rejected node 16198
+Iteration 268
+17.510 s to compute flow routing
+rejected node 10687
+Iteration 269
+17.481 s to compute flow routing
+rejected node 21822
+Iteration 270
+17.351 s to compute flow routing
+accepted node 11022
+Iteration 271
+17.343 s to compute flow routing
+rejected node 16656
+Iteration 272
+17.116 s to compute flow routing
+rejected node 23632
+Iteration 273
+17.382 s to compute flow routing
+rejected node 22354
+Iteration 274
+17.324 s to compute flow routing
+accepted node 8225
+Iteration 275
+17.407 s to compute flow routing
+accepted node 15120
+Iteration 276
+17.199 s to compute flow routing
+rejected node 21154
+Iteration 277
+17.343 s to compute flow routing
+accepted node 17412
+Iteration 278
+17.352 s to compute flow routing
+accepted node 22177
+Iteration 279
+17.254 s to compute flow routing
+accepted node 10192
+Iteration 280
+17.155 s to compute flow routing
+accepted node 84
+Iteration 281
+17.215 s to compute flow routing
+rejected node 861
+Iteration 282
+17.282 s to compute flow routing
+accepted node 25751
+Iteration 283
+17.084 s to compute flow routing
+rejected node 20270
+Iteration 284
+16.433 s to compute flow routing
+accepted node 23479
+Iteration 285
+16.476 s to compute flow routing
+rejected node 13331
+Iteration 286
+16.336 s to compute flow routing
+accepted node 19187
+Iteration 287
+16.279 s to compute flow routing
+accepted node 17840
+Iteration 288
+16.040 s to compute flow routing
+accepted node 20280
+Iteration 289
+16.177 s to compute flow routing
+rejected node 21942
+Iteration 290
+16.265 s to compute flow routing
+accepted node 12542
+Iteration 291
+15.552 s to compute flow routing
+rejected node 25549
+Iteration 292
+16.187 s to compute flow routing
+rejected node 17957
+Iteration 293
+16.138 s to compute flow routing
+accepted node 1056
+Iteration 294
+15.934 s to compute flow routing
+rejected node 14369
+Iteration 295
+15.846 s to compute flow routing
+rejected node 8024
+Iteration 296
+16.132 s to compute flow routing
+accepted node 16423
+Iteration 297
+16.098 s to compute flow routing
+rejected node 22949
+Iteration 298
+16.169 s to compute flow routing
+rejected node 194
+Iteration 299
+16.079 s to compute flow routing
+rejected node 25152
+Iteration 300
+15.707 s to compute flow routing
+rejected node 23067
+Iteration 301
+16.072 s to compute flow routing
+accepted node 168
+Iteration 302
+16.028 s to compute flow routing
+rejected node 18919
+Iteration 303
+16.069 s to compute flow routing
+accepted node 9314
+Iteration 304
+16.084 s to compute flow routing
+accepted node 26275
+Iteration 305
+16.053 s to compute flow routing
+accepted node 11870
+Iteration 306
+16.042 s to compute flow routing
+rejected node 31716
+Iteration 307
+16.128 s to compute flow routing
+accepted node 1193
+Iteration 308
+16.116 s to compute flow routing
+accepted node 10788
+Iteration 309
+16.107 s to compute flow routing
+rejected node 24379
+Iteration 310
+16.052 s to compute flow routing
+rejected node 12751
+Iteration 311
+16.046 s to compute flow routing
+rejected node 17331
+Iteration 312
+16.107 s to compute flow routing
+rejected node 19388
+Iteration 313
+16.083 s to compute flow routing
+accepted node 10596
+Iteration 314
+15.900 s to compute flow routing
+accepted node 28202
+Iteration 315
+15.848 s to compute flow routing
+rejected node 23860
+Iteration 316
+15.801 s to compute flow routing
+rejected node 7941
+Iteration 317
+15.906 s to compute flow routing
+accepted node 161
+Iteration 318
+15.879 s to compute flow routing
+rejected node 2884
+Iteration 319
+15.813 s to compute flow routing
+accepted node 27190
+Iteration 320
+15.892 s to compute flow routing
+rejected node 16130
+Iteration 321
+15.864 s to compute flow routing
+rejected node 30810
+Iteration 322
+15.884 s to compute flow routing
+accepted node 24038
+Iteration 323
+15.727 s to compute flow routing
+rejected node 5255
+Iteration 324
+15.853 s to compute flow routing
+rejected node 20604
+Iteration 325
+15.777 s to compute flow routing
+rejected node 17951
+Iteration 326
+15.816 s to compute flow routing
+rejected node 2244
+Iteration 327
+15.817 s to compute flow routing
+accepted node 25907
+Iteration 328
+15.741 s to compute flow routing
+accepted node 11454
+Iteration 329
+15.743 s to compute flow routing
+rejected node 66
+Iteration 330
+15.874 s to compute flow routing
+rejected node 31056
+Iteration 331
+15.551 s to compute flow routing
+accepted node 2374
+Iteration 332
+15.607 s to compute flow routing
+rejected node 29951
+Iteration 333
+15.622 s to compute flow routing
+rejected node 25969
+Iteration 334
+15.351 s to compute flow routing
+rejected node 29168
+Iteration 335
+15.544 s to compute flow routing
+accepted node 3742
+Iteration 336
+15.575 s to compute flow routing
+rejected node 26371
+Iteration 337
+15.593 s to compute flow routing
+accepted node 30479
+Iteration 338
+15.629 s to compute flow routing
+accepted node 441
+Iteration 339
+15.414 s to compute flow routing
+accepted node 30552
+Iteration 340
+15.443 s to compute flow routing
+accepted node 7858
+Iteration 341
+15.442 s to compute flow routing
+accepted node 31403
+Iteration 342
+15.262 s to compute flow routing
+rejected node 8424
+Iteration 343
+15.409 s to compute flow routing
+accepted node 1936
+Iteration 344
+15.369 s to compute flow routing
+accepted node 23676
+Iteration 345
+15.356 s to compute flow routing
+rejected node 4509
+Iteration 346
+15.441 s to compute flow routing
+accepted node 23428
+Iteration 347
+15.315 s to compute flow routing
+rejected node 28834
+Iteration 348
+15.337 s to compute flow routing
+accepted node 11209
+Iteration 349
+15.285 s to compute flow routing
+accepted node 31893
+Iteration 350
+15.286 s to compute flow routing
+rejected node 8836
+Iteration 351
+15.227 s to compute flow routing
+accepted node 5414
+Iteration 352
+15.215 s to compute flow routing
+accepted node 26707
+Iteration 353
+15.197 s to compute flow routing
+rejected node 18999
+Iteration 354
+15.228 s to compute flow routing
+accepted node 11136
+Iteration 355
+15.196 s to compute flow routing
+rejected node 27731
+Iteration 356
+15.212 s to compute flow routing
+rejected node 28866
+Iteration 357
+15.218 s to compute flow routing
+accepted node 27242
+Iteration 358
+15.227 s to compute flow routing
+accepted node 17291
+Iteration 359
+15.143 s to compute flow routing
+rejected node 22772
+Iteration 360
+15.122 s to compute flow routing
+accepted node 17719
+Iteration 361
+15.089 s to compute flow routing
+accepted node 2814
+Iteration 362
+15.142 s to compute flow routing
+accepted node 20666
+Iteration 363
+15.079 s to compute flow routing
+accepted node 30283
+Iteration 364
+15.098 s to compute flow routing
+rejected node 215
+Iteration 365
+15.037 s to compute flow routing
+rejected node 160
+Iteration 366
+15.053 s to compute flow routing
+rejected node 2726
+Iteration 367
+15.146 s to compute flow routing
+rejected node 16569
+Iteration 368
+15.106 s to compute flow routing
+accepted node 12879
+Iteration 369
+15.156 s to compute flow routing
+rejected node 31761
+Iteration 370
+14.726 s to compute flow routing
+rejected node 26549
+Iteration 371
+15.211 s to compute flow routing
+rejected node 21836
+Iteration 372
+15.248 s to compute flow routing
+accepted node 7894
+Iteration 373
+15.131 s to compute flow routing
+accepted node 6765
+Iteration 374
+15.041 s to compute flow routing
+rejected node 29277
+Iteration 375
+15.076 s to compute flow routing
+accepted node 14157
+Iteration 376
+15.046 s to compute flow routing
+rejected node 26116
+Iteration 377
+14.999 s to compute flow routing
+rejected node 25063
+Iteration 378
+15.092 s to compute flow routing
+accepted node 479
+Iteration 379
+15.017 s to compute flow routing
+rejected node 6573
+Iteration 380
+14.884 s to compute flow routing
+accepted node 25120
+Iteration 381
+14.946 s to compute flow routing
+accepted node 29995
+Iteration 382
+14.989 s to compute flow routing
+accepted node 3217
+Iteration 383
+14.941 s to compute flow routing
+accepted node 18993
+Iteration 384
+14.816 s to compute flow routing
+rejected node 16758
+Iteration 385
+14.834 s to compute flow routing
+accepted node 21092
+Iteration 386
+14.902 s to compute flow routing
+rejected node 50
+Iteration 387
+14.703 s to compute flow routing
+rejected node 26579
+Iteration 388
+14.759 s to compute flow routing
+rejected node 30432
+Iteration 389
+14.946 s to compute flow routing
+rejected node 6468
+Iteration 390
+14.894 s to compute flow routing
+rejected node 11299
+Iteration 391
+14.919 s to compute flow routing
+rejected node 9834
+Iteration 392
+14.851 s to compute flow routing
+accepted node 18414
+Iteration 393
+14.963 s to compute flow routing
+accepted node 25002
+Iteration 394
+15.025 s to compute flow routing
+accepted node 18556
+Iteration 395
+14.926 s to compute flow routing
+accepted node 15701
+Iteration 396
+14.749 s to compute flow routing
+rejected node 13989
+Iteration 397
+14.859 s to compute flow routing
+rejected node 6541
+Iteration 398
+14.874 s to compute flow routing
+accepted node 3082
+Iteration 399
+14.807 s to compute flow routing
+accepted node 27014
+Iteration 400
+14.766 s to compute flow routing
+accepted node 22609
+Iteration 401
+14.837 s to compute flow routing
+accepted node 12507
+Iteration 402
+14.901 s to compute flow routing
+rejected node 112
+Iteration 403
+14.764 s to compute flow routing
+rejected node 30399
+Iteration 404
+14.880 s to compute flow routing
+rejected node 28906
+Iteration 405
+14.941 s to compute flow routing
+rejected node 16543
+Iteration 406
+14.925 s to compute flow routing
+rejected node 30411
+Iteration 407
+14.841 s to compute flow routing
+rejected node 8169
+Iteration 408
+14.827 s to compute flow routing
+rejected node 4819
+Iteration 409
+14.863 s to compute flow routing
+rejected node 126
+Iteration 410
+14.875 s to compute flow routing
+accepted node 9100
+Iteration 411
+14.852 s to compute flow routing
+accepted node 20870
+Iteration 412
+14.906 s to compute flow routing
+accepted node 31201
+Iteration 413
+14.876 s to compute flow routing
+rejected node 8280
+Iteration 414
+14.745 s to compute flow routing
+accepted node 27010
+Iteration 415
+14.752 s to compute flow routing
+accepted node 3298
+Iteration 416
+14.743 s to compute flow routing
+rejected node 3555
+Iteration 417
+14.766 s to compute flow routing
+rejected node 1531
+Iteration 418
+14.703 s to compute flow routing
+rejected node 30125
+Iteration 419
+14.668 s to compute flow routing
+accepted node 29718
+Iteration 420
+14.471 s to compute flow routing
+rejected node 22525
+Iteration 421
+14.663 s to compute flow routing
+rejected node 18610
+Iteration 422
+14.606 s to compute flow routing
+accepted node 16705
+Iteration 423
+14.562 s to compute flow routing
+rejected node 28846
+Iteration 424
+14.615 s to compute flow routing
+rejected node 24044
+Iteration 425
+14.574 s to compute flow routing
+accepted node 11674
+Iteration 426
+14.649 s to compute flow routing
+accepted node 23367
+Iteration 427
+14.683 s to compute flow routing
+accepted node 29158
+Iteration 428
+14.675 s to compute flow routing
+rejected node 7310
+Iteration 429
+14.651 s to compute flow routing
+rejected node 13163
+Iteration 430
+14.646 s to compute flow routing
+rejected node 3373
+Iteration 431
+14.644 s to compute flow routing
+accepted node 17718
+Iteration 432
+14.659 s to compute flow routing
+accepted node 16026
+Iteration 433
+14.662 s to compute flow routing
+rejected node 4725
+Iteration 434
+14.625 s to compute flow routing
+accepted node 21309
+Iteration 435
+14.570 s to compute flow routing
+accepted node 23243
+Iteration 436
+14.551 s to compute flow routing
+rejected node 26436
+Iteration 437
+14.440 s to compute flow routing
+rejected node 24596
+Iteration 438
+14.299 s to compute flow routing
+accepted node 30630
+Iteration 439
+14.290 s to compute flow routing
+rejected node 11931
+Iteration 440
+14.229 s to compute flow routing
+accepted node 27729
+Iteration 441
+14.307 s to compute flow routing
+rejected node 10235
+Iteration 442
+14.375 s to compute flow routing
+accepted node 4006
+Iteration 443
+14.368 s to compute flow routing
+rejected node 8542
+Iteration 444
+14.399 s to compute flow routing
+accepted node 32332
+Iteration 445
+14.347 s to compute flow routing
+accepted node 27862
+Iteration 446
+14.256 s to compute flow routing
+rejected node 18377
+Iteration 447
+14.260 s to compute flow routing
+accepted node 12794
+Iteration 448
+14.226 s to compute flow routing
+rejected node 30697
+Iteration 449
+14.188 s to compute flow routing
+rejected node 18825
+Iteration 450
+14.287 s to compute flow routing
+rejected node 16552
+Iteration 451
+14.132 s to compute flow routing
+accepted node 6482
+Iteration 452
+14.173 s to compute flow routing
+accepted node 8035
+Iteration 453
+14.073 s to compute flow routing
+rejected node 3654
+Iteration 454
+14.213 s to compute flow routing
+rejected node 28773
+Iteration 455
+14.162 s to compute flow routing
+rejected node 2319
+Iteration 456
+14.178 s to compute flow routing
+accepted node 1509
+Iteration 457
+14.112 s to compute flow routing
+accepted node 17752
+Iteration 458
+14.100 s to compute flow routing
+accepted node 5696
+Iteration 459
+14.119 s to compute flow routing
+accepted node 7335
+Iteration 460
+14.161 s to compute flow routing
+rejected node 4897
+Iteration 461
+14.205 s to compute flow routing
+accepted node 32048
+Iteration 462
+14.217 s to compute flow routing
+rejected node 15834
+Iteration 463
+14.187 s to compute flow routing
+accepted node 26402
+Iteration 464
+14.064 s to compute flow routing
+rejected node 31730
+Iteration 465
+14.091 s to compute flow routing
+rejected node 16230
+Iteration 466
+14.154 s to compute flow routing
+accepted node 19538
+Iteration 467
+14.168 s to compute flow routing
+accepted node 18040
+Iteration 468
+14.181 s to compute flow routing
+rejected node 31320
+Iteration 469
+13.754 s to compute flow routing
+rejected node 5749
+Iteration 470
+14.106 s to compute flow routing
+rejected node 32094
+Iteration 471
+14.114 s to compute flow routing
+accepted node 15381
+Iteration 472
+14.086 s to compute flow routing
+rejected node 187
+Iteration 473
+14.221 s to compute flow routing
+accepted node 29002
+Iteration 474
+13.941 s to compute flow routing
+rejected node 26043
+Iteration 475
+13.771 s to compute flow routing
+rejected node 17172
+Iteration 476
+14.048 s to compute flow routing
+rejected node 9518
+Iteration 477
+13.899 s to compute flow routing
+rejected node 15768
+Iteration 478
+14.145 s to compute flow routing
+rejected node 20601
+Iteration 479
+14.008 s to compute flow routing
+rejected node 13312
+Iteration 480
+14.114 s to compute flow routing
+rejected node 18593
+Iteration 481
+14.023 s to compute flow routing
+rejected node 30095
+Iteration 482
+14.153 s to compute flow routing
+accepted node 14307
+Iteration 483
+14.142 s to compute flow routing
+accepted node 2482
+Iteration 484
+14.207 s to compute flow routing
+rejected node 9484
+Iteration 485
+14.233 s to compute flow routing
+rejected node 29620
+Iteration 486
+14.186 s to compute flow routing
+rejected node 9911
+Iteration 487
+14.119 s to compute flow routing
+rejected node 6929
+Iteration 488
+14.070 s to compute flow routing
+accepted node 21687
+Iteration 489
+14.076 s to compute flow routing
+rejected node 21888
+Iteration 490
+13.984 s to compute flow routing
+rejected node 23458
+Iteration 491
+13.980 s to compute flow routing
+rejected node 7744
+Iteration 492
+14.157 s to compute flow routing
+rejected node 23621
+Iteration 493
+14.156 s to compute flow routing
+rejected node 28390
+Iteration 494
+14.158 s to compute flow routing
+rejected node 14788
+Iteration 495
+14.137 s to compute flow routing
+rejected node 16529
+Iteration 496
+14.188 s to compute flow routing
+rejected node 5868
+Iteration 497
+14.053 s to compute flow routing
+rejected node 26689
+Iteration 498
+14.195 s to compute flow routing
+rejected node 29892
+Iteration 499
+13.948 s to compute flow routing
+rejected node 15456
+14.070 s to compute flow routing
+Final configuration in 12771.42 seconds:
+[20103  4221 17235 21223 25428  1270 26424 15453 30521 14453  2016 24932
+ 22564 13290 14766   568 24591 10118 29893 28622 20579 32215  5076  7933
+ 28698    69 10628 18352 31427 32293  6655 17681   611  4273  7847 19024
+ 24426  5663 25191 10768   614  1954 32305  9462  8014  8991 12022 20299
+ 29449 24744 23755 17164 14464 23660 24789 31241 10197 14372   208 10594
+ 26912 10966  8709  5382  4585  5711  6672   106 31931 29854 15251 24895
+  4656 27911   186 26610 20155 24081 14282 10160  5428 28794 16609 17041
+ 26685 24636  5485  6778  7054 10125 28854 16747 25708 17163 29227 19329
+ 19317   134 16562 31385 17847  6267   219  6595  9944 16856 31589 15461
+ 22326 11472 10775 20688  7924  9083 20386 20697 14107 27407 17270  5513
+    31 14188  3933 12727 12634 12105 14235   339 20783  6614  6327 11443
+  7438 16403  1815 25544  6859 31552 19633  6767 30949 12308 18333  8359
+ 14301  5455 15316 18550  1762 12950 22339 11012  3321  5186  1584 21908
+ 26505 14391 26752 28034 19355 28870 24050 10797  6203 28686 22299 11747
+   409 25770 31471 20672 19955 12012 25444 31501  2485 28729  3238 21831
+ 23909 11910  9062  3583 11098 16712 28572 28197  1567 15281    29 23658
+  1470 31265 31534 25615  3791   185 27089 14349  6312 29101 11022  8225
+ 15120 17412 22177 10192    84 25751 23479 19187 17840 20280 12542  1056
+ 16423   168  9314 26275 11870  1193 10788 10596 28202   161 27190 24038
+ 25907 11454  2374  3742 30479   441 30552  7858 31403  1936 23676 23428
+ 11209 31893  5414 26707 11136 27242 17291 17719  2814 20666 30283 12879
+  7894  6765 14157   479 25120 29995  3217 18993 21092 18414 25002 18556
+ 15701  3082 27014 22609 12507  9100 20870 31201 27010  3298 29718 16705
+ 11674 23367 29158 17718 16026 21309 23243 30630 27729  4006 32332 27862
+ 12794  6482  8035  1509 17752  5696  7335 32048 26402 19538 18040 15381
+ 29002 14307  2482 21687] [ 3.74534342 10.00057278  5.91842008  3.06376272  2.51121819  3.05741741
+ 14.06654417  6.59848262  5.06745552  5.8747264  10.34028875  8.9842973
+  8.10120038  3.58174108  4.90689518  7.09762106  7.80325933  4.05339817
+  3.08532815  4.20056768  5.53851666  2.58197199 10.42481573  5.16308828
+  7.57223563  4.81675027  9.3002603   6.03817741  4.29817102  6.51214375
+  4.51998611  8.94478969  3.19886098  2.7204037   5.84777106  7.09976428
+  2.68009966  6.56169516  6.66729682  9.93915635  8.27541809 12.77940318
+  6.22286601  5.91849545 10.49199877  2.62797512  6.32050985  5.0519147
+  2.69962956  5.37311972  5.74196077 12.15521501 10.6294934   2.71582902
+  4.98830671  5.0414465   5.62795094  7.20937331  4.69389819  8.4188902
+  4.87640082  8.22792959  6.24338326  8.1997571   9.47186645 13.17019597
+  5.69441788  4.69736526  3.11664879  5.66880494  7.06119483  2.64746578
+  5.08616691  5.29628459  6.98755748  9.97188485  6.30755019 11.64636265
+ 10.63789263 19.16875891  5.85319099  5.00564835  9.32854237  6.28939608
+  3.66904678  9.82898884  5.25345918  4.94206853  3.88047456  6.39532544
+  3.98174544  2.84863269 13.96313372  5.2964074   5.36091318  4.39414672
+  5.84775741  2.72403861  6.10782339  6.8155071   4.19844942  2.97472899
+  6.09587732  7.31001827 12.70680466  5.86333876 14.64339812  2.59240994
+  4.90914087  5.31116021 11.02840516  2.90516672 15.62644468  7.55099456
+  8.87244187 12.9006222   5.60954593  5.26365013  5.90426604  7.3229748
+  3.38178175 11.21591813  4.8764735   6.45529403  5.64987544  5.1595147
+  7.00984078  5.25348682  8.03267711  2.64051723  6.79628378 14.45158084
+  4.47350227  5.4869901  11.16728917  5.19256253  3.75861231  9.28686643
+  3.31269741 12.04316176 10.90601358  9.64769954  5.01448682  6.29887533
+  2.79877191  7.4281451   8.01116723  7.3632377  10.23895052  7.95408596
+  4.44092415  8.94093751  2.5279529   6.11523874 14.2436562   8.99638676
+  6.41254214  6.14603284 10.09031904  7.08775536  6.77414346 11.89595576
+  5.28072849  8.84507098  6.92428699  3.49550228  8.64342099  9.56920799
+  9.3392496   6.94263482  7.42731035  9.93583384 10.87423817  6.69987399
+ 10.08056799 10.98683213  5.71783033  5.2549884  11.78873907  5.46370471
+  6.28031648  5.38080657  5.53605532  8.05997623  6.36554243 13.24150859
+ 11.03492088  7.05013528  7.89378472  3.01572769  8.0827107   5.5170991
+  7.73475847 11.26758209  8.6457437  12.01539659 10.39208262  3.84472062
+  7.61313725  7.57501592  3.52936886  2.51964802  5.14075882  3.05899196
+  5.14952951  9.56969481  5.01268113  6.94924846  5.82389048  4.16856013
+  4.32049021  8.0037308   6.18596752 10.25503045 13.75387781  5.05069042
+  2.84207114  5.73036294 19.09445463  5.5835495   8.47488334  7.40211329
+ 16.83203857  8.27852446 12.62087883  5.19199692  5.59277913  5.40475821
+  4.79579143 14.8715623   9.90650358  6.86897156  6.85021204  6.3034275
+  7.97184649  5.70154532  5.97682303  5.33715671  4.73193013  7.07287208
+  5.33549021  7.17615926  5.57504354  5.22870898  5.10072203  5.15278833
+  9.24198104  8.16390216  5.06807909  6.47560957 11.95868985  5.45866489
+  7.23775294 11.42006445  5.07916156  9.43646091  8.15663445  5.42723302
+  6.27336219  6.09000832  5.28742175  5.48007718  5.23845329  6.77448074
+  7.68600969 11.72991487  9.13789163 10.66535446  6.43498876  8.63643383
+  5.04008404  5.98116913  4.97350836  7.33328758  8.32829711 11.41144706
+  5.52165231  8.68735657  5.47220505  5.74102949  5.86792238 10.58468805
+ 28.18498634  7.45856672  7.98337783 14.77441816  6.00343914  6.786843
+  5.06340589  7.11907047  6.78056453  8.52480785  7.73482805 10.03976291
+ 13.60781453 17.61548232  5.29576215  5.88179205  5.26998469  3.18617777
+  5.41171109  5.67783815  6.95641619  6.42152682]
+14.066 s to compute flow routing
+catchments: [37661, 44935, 44946, 46038, 46344, 20815, 38433, 45920, 46104, 35124, 44825, 35152, 46050, 35149, 45726, 45918, 45957, 38369, 38370, 46068, 45893, 45895, 45926, 45953, 45954, 45998, 46006, 35155, 45959, 46017, 46022, 20884, 35115, 44933, 45907, 45982, 46005, 45911, 46069, 35120, 35126, 46030, 46031, 46037, 38462, 45914, 44916, 44930, 46052, 35140, 35148, 45945, 20899, 37863, 45699, 45743, 35151, 46002, 45910, 35150, 45946, 46042, 38456, 38458, 38465, 45929, 38230, 38232, 38234, 44670, 20816, 38229, 46106, 45930, 45931, 45894, 45932, 20821, 45938, 46003, 35147, 35119, 44826, 44672, 44674, 44953, 44955, 45915, 45927, 35118, 35125, 35157, 44906, 44918, 46059, 45916, 45917, 46071, 46074, 35143, 45947, 38289, 38292, 38298, 38439, 20848, 45689, 45693, 35146, 38422, 38448, 38455, 45766, 38437, 45934, 38196, 38435, 38436, 38457, 46092, 35153, 35121, 44668, 44947, 44949, 35116, 35117, 20825, 45892, 45899, 45983, 46072, 46075, 46077, 45738, 45740, 45912, 44903, 44948, 46034, 46035, 46014, 46023, 46026, 46051, 35139, 35141, 35114, 44907, 45908, 20844, 45697, 35144, 45909, 38441, 45767, 45772, 37859, 38231, 46097, 44966, 46343, 20813, 45933, 38432, 45988, 35154, 35156, 45742, 45744, 44905, 44952, 44954, 38238, 38239, 44931, 44950, 44910, 44912, 44914, 44934, 20812, 38466, 45913, 45921, 45987, 45739, 46039, 46041, 46078, 46079, 46080, 38440, 38442, 38447, 38464, 45923, 45925, 38419, 38424, 38444, 38449, 45935, 46018, 46036, 45901, 45984, 45996, 46015, 45741, 45919, 46040, 38469, 38293, 38467, 38450, 45768, 35142, 45905, 45906, 46076, 46016, 46019, 46027, 37662, 45958, 46024, 38453, 45770, 38200, 38434, 38233, 38425, 38428, 38429, 38430, 38431, 35145, 45904, 44956, 44957, 45900, 45902, 46073, 38237, 38426, 45928, 44669, 44951, 46067, 38235, 38236, 38454, 38420, 38443, 38445, 38438, 45922, 45924, 44911, 44913, 45936, 45937, 44932, 46070]
