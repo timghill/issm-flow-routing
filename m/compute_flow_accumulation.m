@@ -89,7 +89,7 @@ for jj=1:step:length(groundedice)
         iters = 0;
         done = false;
         if ismember(start, sinks)
-            sinkindex = find(sinks==start);
+            sinkIndex = find(sinks==start);
             sinkDischarge(sinkIndex) = sinkDischarge(sinkIndex) + acc(start);
             done = true;
         end

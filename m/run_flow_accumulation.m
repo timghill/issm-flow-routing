@@ -20,6 +20,7 @@ maxiter = 250;
 [moulins, discharge, trace] = place_moulins(md, phi, melt, condition, ...
     discharge_threshold, 'step', step, 'maxiter', maxiter);
 
+
 % Recompute flow accumulation for final moulins
 % compute_flow_accumulation needs element areas and
 % edge-node connections
@@ -28,6 +29,13 @@ connectEdge = reconstruct_edges(md);
 connectEdge = connectEdge(:, 1:2);
 [flowAcc, sinkDischarge, sinkCatchments] = compute_flow_accumulation(md, ...
     meshArea, connectEdge, phi, melt, 'step', step, 'sinks', moulins);
+
+% Save moulin indices and catchments (i.e., the elements)
+% that feed into each moulins
+moulin_map = struct;
+moulin_map.moulins = moulins;
+moulin_map.catchments = sinkCatchments;
+save('moulins.mat', '-struct', 'moulin_map');
 
 % Scatter plot flow accumulation
 % Set marker size based on flow accumulation field
@@ -42,17 +50,6 @@ scatter(md.mesh.x, md.mesh.y, s, flowAcc, 'filled')
 scatter(md.mesh.x(moulins), md.mesh.y(moulins), 5, 'color', 'red')
 axis image
 colorbar;
-
-% Plot each moulin with their adjacent nodes
-% to debug node-node connections
-for i=1:length(moulins)
-    m1 = moulins(i);
-    load adjacent_nodes;
-    xx = md.mesh.x(adjacent_nodes{m1});
-    yy = md.mesh.y(adjacent_nodes{m1});
-    scatter(xx, yy, 5, 'color', 'magenta')
-    scatter(md.mesh.x(m1), md.mesh.y(m1), 8, 'color', 'black')
-end
 print('matlab_flowacc.png', '-dpng', '-r400')
 
 % Trace figure for moulin discharge
