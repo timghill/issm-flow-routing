@@ -9,7 +9,7 @@ phi = md.geometry.surface;
 % 2 m/year at sea level
 % 0 m/year above 1500 m
 ela = 1500;
-melt = 2/365/86400*(ela-phi)/ela;
+melt = 2/365/86400*(ela-phi)/ela; % UNITS: m/s
 melt(melt<0) = 0;
 
 % Allow moulins everywhere
