@@ -30,8 +30,9 @@ mdot = mean(melt(conn), 2);
 % if all neighbouring nodes are nan (i.e., on ice shelf),
 % do nothing
 % tic;
+acc = zeros(md.mesh.numberofvertices, 1);
 node2element = {};
-for element=1:md.mesh.numberofvertices
+for element=1:md.mesh.numberofelements
     phineigh = phi(conn(element, :));
 %    if element<20
 %        size(phineigh)
@@ -42,12 +43,12 @@ for element=1:md.mesh.numberofvertices
 %        if element<20
 %            ixmin
 %        end
-        acc(conn(element, ixmin)) = area(element).*mdot(element);
         kk = conn(element, ixmin);
+        acc(kk) = acc(kk) + area(element).*mdot(element);
         if kk>length(node2element)
             node2element{kk} = [];
         end
-        node2element{conn(element, ixmin)} = [node2element{conn(element, ixmin)}, element];
+        node2element{kk} = [node2element{kk}, element];
     end
 end
 % toc;
@@ -83,16 +84,11 @@ maxiter = 1000;
 groundedice = find(md.mask.ocean_levelset==1);
 for jj=1:step:length(groundedice)
     start = groundedice(jj);
-    if acc(start)>0
+    if acc(start)>=0
         phicopy = phi(:,:);
         nodenum = groundedice(jj);
         iters = 0;
         done = false;
-        if ismember(start, sinks)
-            sinkIndex = find(sinks==start);
-            sinkDischarge(sinkIndex) = sinkDischarge(sinkIndex) + acc(start);
-            done = true;
-        end
 
         while not(done) && iters<maxiter
             flowAcc(nodenum) = flowAcc(nodenum) + acc(start);
@@ -100,6 +96,14 @@ for jj=1:step:length(groundedice)
 
             neigh_nodenums = adjacent_nodes{nodenum};
             phi_neigh = phicopy(neigh_nodenums);
+            
+            if ismember(nodenum, sinks)
+                sinkIndex = find(sinks==nodenum);
+                sinkDischarge(sinkIndex) = sinkDischarge(sinkIndex) + acc(start);
+                done = true;
+                sinkCatchments{nodenum} = [sinkCatchments{nodenum}, node2element{start}];
+            end
+
             if all(isnan(phi_neigh)) || any(md.mask.ocean_levelset(neigh_nodenums)==-1)
                 done = true;
                 % disp('setting done = true')
@@ -108,13 +112,6 @@ for jj=1:step:length(groundedice)
                 next_nodenum = neigh_nodenums(ixmin);
                 nodenum = next_nodenum;
             end
-            
-            if ismember(nodenum, sinks)
-                sinkIndex = find(sinks==nodenum);
-                sinkDischarge(sinkIndex) = sinkDischarge(sinkIndex) + acc(start);
-                done = true;
-                sinkCatchments{nodenum} = [sinkCatchments{nodenum}, node2element{start}];
-            end        
     
             iters = iters + 1;
             %if mod(iters,100)==0
