@@ -2,7 +2,7 @@ function [moulins, discharge, trace] = place_moulins(md, phi, melt, condition, d
 % defaults
 step = 1;
 p = 1.0;
-maxiter = 25;
+maxiter = 250;
 decay_factor = 0.5;
 nvarg = length(varargin);
 for k=1:2:nvarg
@@ -14,6 +14,7 @@ for k=1:2:nvarg
         maxiter = varargin{k+1};
     elseif strcmp(varargin{k}, 'decay_factor')
         decay_factor = varargin{k+1};
+    end
 end
 
 moulins = [];
