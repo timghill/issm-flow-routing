@@ -4,7 +4,7 @@ addpath(genpath([getenv('ISSM_DIR'), '/lib']))
 % Load ISSM model and set surface and melt fields
 % loadmodel('ASE_2300_ks_1e3_GlaDS_Steady_State_ks.mat')
 phi = md.geometry.surface;
-phi(md.mask.ocean_levelset<0) = nan;
+% phi(md.mask.ocean_levelset<0) = nan;
 
 %% load surface melt data that has been interpolated to the ISSM mesh
 
@@ -62,10 +62,14 @@ disp(max(abs(discharge_error)))
 
 
 % Compute total melt
-melt(md.mask.ocean_levelset<0) = 0;
 total_melt = sum(elmelt.*meshArea);
 disp('Total melt:')
 disp(total_melt)
 
 disp('Sum of moulin discharge')
 disp(sum(sinkDischarge))
+
+disp('Masked out melt')
+melt(md.mask.ocean_levelset<0) = 0;
+elmelt = mean(melt(md.mesh.elements), 2);
+disp(sum(elmelt.*meshArea))
